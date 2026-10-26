@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "xiaolai": {
+      "source": {
+        "source": "github",
+        "repo": "xiaolai/claude-plugin-marketplace"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "nlpm@xiaolai": true
+  }
+}

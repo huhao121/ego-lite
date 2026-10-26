@@ -1,0 +1,6 @@
+[marketplaces.xiaolai]
+source_type = "git"
+source = "https://github.com/xiaolai/claude-plugin-marketplace.git"
+
+[plugins."nlpm@xiaolai"]
+enabled = true
